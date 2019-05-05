@@ -3,63 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lallodi.github.io/public/about/</loc>
+    <loc>public/about/</loc>
     <lastmod>2019-05-05T17:09:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lallodi.github.io/public/</loc>
-    <lastmod>2019-05-05T17:09:56+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lallodi.github.io/public/categories/</loc>
+    <loc>public/</loc>
     <lastmod>2019-05-05T17:09:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lallodi.github.io/public/teaching/</loc>
+    <loc>public/categories/</loc>
+    <lastmod>2019-05-05T17:09:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>public/teaching/</loc>
     <lastmod>2019-05-05T16:36:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lallodi.github.io/public/categories/teaching/</loc>
+    <loc>public/categories/teaching/</loc>
     <lastmod>2019-05-05T16:36:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lallodi.github.io/public/projects/</loc>
+    <loc>public/projects/</loc>
     <lastmod>2019-05-05T16:36:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lallodi.github.io/public/categories/projects/</loc>
+    <loc>public/categories/projects/</loc>
     <lastmod>2019-05-05T16:36:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lallodi.github.io/public/categories/luca/</loc>
+    <loc>public/categories/luca/</loc>
     <lastmod>2019-05-05T17:09:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lallodi.github.io/public/publications/</loc>
+    <loc>public/publications/</loc>
     <lastmod>2019-05-05T16:08:17+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lallodi.github.io/public/categories/publications/</loc>
+    <loc>public/categories/publications/</loc>
     <lastmod>2019-05-05T16:08:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lallodi.github.io/public/tags/</loc>
+    <loc>public/tags/</loc>
     <priority>0</priority>
   </url>
   

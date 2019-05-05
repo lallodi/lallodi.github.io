@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>projects on Luca Allodi @ TU/e</title>
-    <link>https://lallodi.github.io/public/categories/projects/</link>
+    <link>public/categories/projects/</link>
     <description>Recent content in projects on Luca Allodi @ TU/e</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 May 2019 16:09:06 +0200</lastBuildDate>
     
-	<atom:link href="https://lallodi.github.io/public/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="public/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>https://lallodi.github.io/public/projects/</link>
+      <link>public/projects/</link>
       <pubDate>Sun, 05 May 2019 16:09:06 +0200</pubDate>
       
-      <guid>https://lallodi.github.io/public/projects/</guid>
+      <guid>public/projects/</guid>
       <description>Funded projects TBA
 MSc Projects Available Schedule an appointment with me.
 Current    Student Where Topic     Jose Luis Torre Arce TU/e Quality control in the underground   Jeroen Ubbink  TU/e weapons trafficking   René Wouters TU/e drug vendors/buyers profiling   Tzouliano Chotza KPMG Phishing response   Ivan Kozlov DELOITTE Malware engineering techniques   Rik Dolfing RU SOC sign.</description>

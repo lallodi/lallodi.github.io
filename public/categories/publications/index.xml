@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>publications on Luca Allodi @ TU/e</title>
-    <link>https://lallodi.github.io/public/categories/publications/</link>
+    <link>public/categories/publications/</link>
     <description>Recent content in publications on Luca Allodi @ TU/e</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 May 2019 13:07:29 +0200</lastBuildDate>
     
-	<atom:link href="https://lallodi.github.io/public/categories/publications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="public/categories/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Publications</title>
-      <link>https://lallodi.github.io/public/publications/</link>
+      <link>public/publications/</link>
       <pubDate>Sun, 05 May 2019 13:07:29 +0200</pubDate>
       
-      <guid>https://lallodi.github.io/public/publications/</guid>
+      <guid>public/publications/</guid>
       <description>I am one of the authoring member of the First.org/NIST Common Vulnerability Scoring System Standard. First.org CVSS Special Interest Group (Authoring member). Common Vulnerability Scoring System (CVSS) v3. Published at http://www.first.org/cvss.
 Highlights Amber van der Heijden, Luca Allodi. Cognitive Triaging of Phishing Attacks. In Proceedings of Usenix Security 2019 (to appear).
  Luca Allodi. 2017. Economic Factors of Vulnerability Trade and Exploitation. In Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security (CCS &amp;lsquo;17).</description>
