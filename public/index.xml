@@ -6,9 +6,53 @@
     <description>Recent content on Luca Allodi @ TU/e</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 05 May 2019 16:29:18 +0200</lastBuildDate>
     
 	<atom:link href="http://win.tue.nl/~lallodi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://win.tue.nl/~lallodi/about/</link>
+      <pubDate>Sun, 05 May 2019 13:13:53 +0200</pubDate>
+      
+      <guid>http://win.tue.nl/~lallodi/about/</guid>
+      <description>Office: MF 6.122a P.O. Box 513, 5600 MB Eindhoven, The Netherlands Email: l.allodi at tue.nl PGP fngrprnt: 950E 3DC8 EB66 DFF3 B64D 7848 A0AD 0BB6 5DC4 98F1  Public key here.
+Curriculum Vitae
+I DO NOT have a Facebook profile. My LinkedIn page (hardly updated) is this. My Twitter handle is @securescientist.
+More verbosely I am an Assistant Professor at the Security Group of the Eindhoven University of Technology, in the Netherlands.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://win.tue.nl/~lallodi/teaching/</link>
+      <pubDate>Sun, 05 May 2019 16:29:18 +0200</pubDate>
+      
+      <guid>http://win.tue.nl/~lallodi/teaching/</guid>
+      <description>Courses Offensive Computer Security (2IC80) This is an introductory course on hacking, with a focus on computer networks and software. The full course will revolve around the idea that (most) mechanisms can be illegitimately misused to obtain (some level of) a desired behaviour; this is the very essence of computer security. We will explore network protocols and the implied trust relations they operate upon; we will look at software vulnerabilities and at how they can emerge from software code; we will look at exploit testing and automated attack frameworks; we will look at penetration testing and advanced networked attacks.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://win.tue.nl/~lallodi/projects/</link>
+      <pubDate>Sun, 05 May 2019 16:09:06 +0200</pubDate>
+      
+      <guid>http://win.tue.nl/~lallodi/projects/</guid>
+      <description>Funded projects TBA
+MSc Projects Available Schedule an appointment with me.
+Current    Student Where Topic     Jose Luis Torre Arce TU/e Quality control in the underground   Jeroen Ubbink  TU/e weapons trafficking   René Wouters TU/e drug vendors/buyers profiling   Tzouliano Chotza KPMG Phishing response   Ivan Kozlov DELOITTE Malware engineering techniques   Rik Dolfing RU SOC sign.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://win.tue.nl/~lallodi/publications/</link>
+      <pubDate>Sun, 05 May 2019 13:07:29 +0200</pubDate>
+      
+      <guid>http://win.tue.nl/~lallodi/publications/</guid>
+      <description>I am one of the authoring member of the First.org/NIST Common Vulnerability Scoring System Standard. First.org CVSS Special Interest Group (Authoring member). Common Vulnerability Scoring System (CVSS) v3. Published at http://www.first.org/cvss.
+Highlights Amber van der Heijden, Luca Allodi. Cognitive Triaging of Phishing Attacks. In Proceedings of Usenix Security 2019 (to appear).
+ Luca Allodi. 2017. Economic Factors of Vulnerability Trade and Exploitation. In Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security (CCS &amp;lsquo;17).</description>
+    </item>
     
   </channel>
 </rss>

@@ -3,12 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://win.tue.nl/~lallodi/about/</loc>
+    <lastmod>2019-05-05T17:09:56+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://win.tue.nl/~lallodi/</loc>
+    <lastmod>2019-05-05T17:09:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://win.tue.nl/~lallodi/categories/</loc>
+    <lastmod>2019-05-05T17:09:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://win.tue.nl/~lallodi/teaching/</loc>
+    <lastmod>2019-05-05T16:36:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://win.tue.nl/~lallodi/categories/teaching/</loc>
+    <lastmod>2019-05-05T16:36:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://win.tue.nl/~lallodi/projects/</loc>
+    <lastmod>2019-05-05T16:36:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://win.tue.nl/~lallodi/categories/projects/</loc>
+    <lastmod>2019-05-05T16:36:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://win.tue.nl/~lallodi/categories/luca/</loc>
+    <lastmod>2019-05-05T17:09:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://win.tue.nl/~lallodi/publications/</loc>
+    <lastmod>2019-05-05T16:08:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://win.tue.nl/~lallodi/categories/publications/</loc>
+    <lastmod>2019-05-05T16:08:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
