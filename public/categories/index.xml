@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Luca Allodi @ TU/e</title>
-    <link>http://win.tue.nl/~lallodi/categories/</link>
+    <link>https://lallodi.github.io/categories/</link>
     <description>Recent content in Categories on Luca Allodi @ TU/e</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 May 2019 16:29:18 +0200</lastBuildDate>
     
-	<atom:link href="http://win.tue.nl/~lallodi/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lallodi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>teaching</title>
-      <link>http://win.tue.nl/~lallodi/categories/teaching/</link>
+      <link>https://lallodi.github.io/categories/teaching/</link>
       <pubDate>Sun, 05 May 2019 16:29:18 +0200</pubDate>
       
-      <guid>http://win.tue.nl/~lallodi/categories/teaching/</guid>
+      <guid>https://lallodi.github.io/categories/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projects</title>
-      <link>http://win.tue.nl/~lallodi/categories/projects/</link>
+      <link>https://lallodi.github.io/categories/projects/</link>
       <pubDate>Sun, 05 May 2019 16:09:06 +0200</pubDate>
       
-      <guid>http://win.tue.nl/~lallodi/categories/projects/</guid>
+      <guid>https://lallodi.github.io/categories/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>luca</title>
-      <link>http://win.tue.nl/~lallodi/categories/luca/</link>
+      <link>https://lallodi.github.io/categories/luca/</link>
       <pubDate>Sun, 05 May 2019 13:13:53 +0200</pubDate>
       
-      <guid>http://win.tue.nl/~lallodi/categories/luca/</guid>
+      <guid>https://lallodi.github.io/categories/luca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>publications</title>
-      <link>http://win.tue.nl/~lallodi/categories/publications/</link>
+      <link>https://lallodi.github.io/categories/publications/</link>
       <pubDate>Sun, 05 May 2019 13:07:29 +0200</pubDate>
       
-      <guid>http://win.tue.nl/~lallodi/categories/publications/</guid>
+      <guid>https://lallodi.github.io/categories/publications/</guid>
       <description></description>
     </item>
     
