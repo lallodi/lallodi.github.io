@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>teaching on Luca Allodi @ TU/e</title>
-    <link>https://lallodi.github.io/categories/teaching/</link>
+    <link>https://lallodi.github.io/public/categories/teaching/</link>
     <description>Recent content in teaching on Luca Allodi @ TU/e</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 May 2019 16:29:18 +0200</lastBuildDate>
     
-	<atom:link href="https://lallodi.github.io/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lallodi.github.io/public/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Teaching</title>
-      <link>https://lallodi.github.io/teaching/</link>
+      <link>https://lallodi.github.io/public/teaching/</link>
       <pubDate>Sun, 05 May 2019 16:29:18 +0200</pubDate>
       
-      <guid>https://lallodi.github.io/teaching/</guid>
+      <guid>https://lallodi.github.io/public/teaching/</guid>
       <description>Courses Offensive Computer Security (2IC80) This is an introductory course on hacking, with a focus on computer networks and software. The full course will revolve around the idea that (most) mechanisms can be illegitimately misused to obtain (some level of) a desired behaviour; this is the very essence of computer security. We will explore network protocols and the implied trust relations they operate upon; we will look at software vulnerabilities and at how they can emerge from software code; we will look at exploit testing and automated attack frameworks; we will look at penetration testing and advanced networked attacks.</description>
     </item>
     
