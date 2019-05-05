@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>luca on Luca Allodi @ TU/e</title>
-    <link>public/categories/luca/</link>
+    <link>/categories/luca/</link>
     <description>Recent content in luca on Luca Allodi @ TU/e</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 May 2019 13:13:53 +0200</lastBuildDate>
     
-	<atom:link href="public/categories/luca/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/luca/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>public/about/</link>
+      <link>/about/</link>
       <pubDate>Sun, 05 May 2019 13:13:53 +0200</pubDate>
       
-      <guid>public/about/</guid>
+      <guid>/about/</guid>
       <description>Office: MF 6.122a P.O. Box 513, 5600 MB Eindhoven, The Netherlands Email: l.allodi at tue.nl PGP fngrprnt: 950E 3DC8 EB66 DFF3 B64D 7848 A0AD 0BB6 5DC4 98F1  Public key here.
 Curriculum Vitae
 I DO NOT have a Facebook profile. My LinkedIn page (hardly updated) is this. My Twitter handle is @securescientist.

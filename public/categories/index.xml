@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Luca Allodi @ TU/e</title>
-    <link>public/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Luca Allodi @ TU/e</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 May 2019 16:29:18 +0200</lastBuildDate>
     
-	<atom:link href="public/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>teaching</title>
-      <link>public/categories/teaching/</link>
+      <link>/categories/teaching/</link>
       <pubDate>Sun, 05 May 2019 16:29:18 +0200</pubDate>
       
-      <guid>public/categories/teaching/</guid>
+      <guid>/categories/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projects</title>
-      <link>public/categories/projects/</link>
+      <link>/categories/projects/</link>
       <pubDate>Sun, 05 May 2019 16:09:06 +0200</pubDate>
       
-      <guid>public/categories/projects/</guid>
+      <guid>/categories/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>luca</title>
-      <link>public/categories/luca/</link>
+      <link>/categories/luca/</link>
       <pubDate>Sun, 05 May 2019 13:13:53 +0200</pubDate>
       
-      <guid>public/categories/luca/</guid>
+      <guid>/categories/luca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>publications</title>
-      <link>public/categories/publications/</link>
+      <link>/categories/publications/</link>
       <pubDate>Sun, 05 May 2019 13:07:29 +0200</pubDate>
       
-      <guid>public/categories/publications/</guid>
+      <guid>/categories/publications/</guid>
       <description></description>
     </item>
     
