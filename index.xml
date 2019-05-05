@@ -17,10 +17,20 @@
       <pubDate>Sun, 05 May 2019 13:13:53 +0200</pubDate>
       
       <guid>/about/</guid>
-      <description>Office: MF 6.122a P.O. Box 513, 5600 MB Eindhoven, The Netherlands Email: l.allodi at tue.nl PGP fngrprnt: 950E 3DC8 EB66 DFF3 B64D 7848 A0AD 0BB6 5DC4 98F1  Public key here.
-Curriculum Vitae
-I DO NOT have a Facebook profile. My LinkedIn page (hardly updated) is this. My Twitter handle is @securescientist.
-More verbosely I am an Assistant Professor at the Security Group of the Eindhoven University of Technology, in the Netherlands.</description>
+      <description>&lt;pre&gt;&lt;code&gt;        Office:         MF 6.122a 
+                        P.O. Box 513, 5600 MB
+                        Eindhoven, The Netherlands
+        Email:          l.allodi at tue.nl
+        PGP fngrprnt:   950E 3DC8 EB66 DFF3 B64D  7848 A0AD 0BB6 5DC4 98F1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Public key &lt;a href=&#34;/public.txt&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;curriculum-allodi.pdf&#34;&gt;Curriculum Vitae&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I &lt;b&gt;DO NOT&lt;/b&gt; have a Facebook profile.&lt;br/&gt;
+My LinkedIn page (hardly updated) is &lt;a href=&#34;https://it.linkedin.com/in/lallodi&#34;&gt; this&lt;/a&gt;.&lt;br/&gt;
+My Twitter handle is &lt;a href=&#34;https://twitter.com/securescientist&#34;&gt;@securescientist&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -49,9 +59,17 @@ Current    Student Where Topic     Jose Luis Torre Arce TU/e Quality control in 
       <pubDate>Sun, 05 May 2019 13:07:29 +0200</pubDate>
       
       <guid>/publications/</guid>
-      <description>I am one of the authoring member of the First.org/NIST Common Vulnerability Scoring System Standard. First.org CVSS Special Interest Group (Authoring member). Common Vulnerability Scoring System (CVSS) v3. Published at http://www.first.org/cvss.
-Highlights Amber van der Heijden, Luca Allodi. Cognitive Triaging of Phishing Attacks. In Proceedings of Usenix Security 2019 (to appear).
- Luca Allodi. 2017. Economic Factors of Vulnerability Trade and Exploitation. In Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security (CCS &amp;lsquo;17).</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;I am one of the authoring member of the First.org/NIST Common Vulnerability Scoring System Standard. &lt;em&gt;First.org CVSS Special Interest Group (Authoring member)&lt;/em&gt;. Common Vulnerability Scoring System (CVSS) v3. Published at &lt;a href=&#34;http://www.first.org/cvss&#34;&gt;http://www.first.org/cvss&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Amber van der Heijden, Luca Allodi. Cognitive Triaging of Phishing Attacks. &lt;strong&gt;In Proceedings of Usenix Security 2019 (to appear)&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Luca Allodi. 2017. Economic Factors of Vulnerability Trade and Exploitation. In Proceedings of the &lt;strong&gt;2017 ACM SIGSAC Conference on Computer and Communications Security (CCS &amp;lsquo;17).&lt;/strong&gt; ACM, New York, NY, USA, 1483-1499. DOI: &lt;a href=&#34;https://doi.org/10.1145/3133956.3133960&#34;&gt;https://doi.org/10.1145/3133956.3133960&lt;/a&gt; &lt;/i&gt; &lt;b&gt;(Acc. rate 18%).&lt;/b&gt;&lt;a href=&#34;https://arxiv.org/abs/1708.04866&#34;&gt; Preprint &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Allodi, L. and Massacci, F. (2017), Security Events and Vulnerability Data for Cybersecurity Risk Estimation.  &lt;i&gt; Risk Analysis, 37: 1606–1627. &lt;a href=&#34;http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/risa.12864&#34;&gt;doi:10.1111/risa.12864&lt;/a&gt; &lt;/i&gt; &lt;b&gt;Impact factor: 2.225, ISI Journal Citation Reports Ranking: 2015: &lt;sup&gt;6&lt;/sup&gt;&amp;frasl;&lt;sub&gt;49&lt;/sub&gt; (Social Sciences Mathematical Methods); &lt;sup&gt;17&lt;/sup&gt;&amp;frasl;&lt;sub&gt;101&lt;/sub&gt; (Mathematics Interdisciplinary Applications).&lt;/b&gt; &lt;a href=&#34;allodi-risa-17.pdf&#34;&gt; Pre pub version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
   </channel>

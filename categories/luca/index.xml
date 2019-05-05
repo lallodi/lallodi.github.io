@@ -17,10 +17,20 @@
       <pubDate>Sun, 05 May 2019 13:13:53 +0200</pubDate>
       
       <guid>/about/</guid>
-      <description>Office: MF 6.122a P.O. Box 513, 5600 MB Eindhoven, The Netherlands Email: l.allodi at tue.nl PGP fngrprnt: 950E 3DC8 EB66 DFF3 B64D 7848 A0AD 0BB6 5DC4 98F1  Public key here.
-Curriculum Vitae
-I DO NOT have a Facebook profile. My LinkedIn page (hardly updated) is this. My Twitter handle is @securescientist.
-More verbosely I am an Assistant Professor at the Security Group of the Eindhoven University of Technology, in the Netherlands.</description>
+      <description>&lt;pre&gt;&lt;code&gt;        Office:         MF 6.122a 
+                        P.O. Box 513, 5600 MB
+                        Eindhoven, The Netherlands
+        Email:          l.allodi at tue.nl
+        PGP fngrprnt:   950E 3DC8 EB66 DFF3 B64D  7848 A0AD 0BB6 5DC4 98F1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Public key &lt;a href=&#34;/public.txt&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;curriculum-allodi.pdf&#34;&gt;Curriculum Vitae&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I &lt;b&gt;DO NOT&lt;/b&gt; have a Facebook profile.&lt;br/&gt;
+My LinkedIn page (hardly updated) is &lt;a href=&#34;https://it.linkedin.com/in/lallodi&#34;&gt; this&lt;/a&gt;.&lt;br/&gt;
+My Twitter handle is &lt;a href=&#34;https://twitter.com/securescientist&#34;&gt;@securescientist&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>
