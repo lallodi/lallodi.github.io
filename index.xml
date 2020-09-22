@@ -6,70 +6,9 @@
     <description>Recent content on Luca Allodi @ TU/e</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2019 16:29:18 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Sun, 05 May 2019 13:13:53 +0200</pubDate>
-      
-      <guid>/about/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;        Office:         MF 6.122a 
-                        P.O. Box 513, 5600 MB
-                        Eindhoven, The Netherlands
-        Email:          l.allodi at tue.nl
-        PGP fngrprnt:   950E 3DC8 EB66 DFF3 B64D  7848 A0AD 0BB6 5DC4 98F1
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Public key &lt;a href=&#34;/public.txt&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;curriculum-allodi.pdf&#34;&gt;Curriculum Vitae&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I &lt;b&gt;DO NOT&lt;/b&gt; have a Facebook profile.&lt;br/&gt;
-My LinkedIn page (hardly updated) is &lt;a href=&#34;https://it.linkedin.com/in/lallodi&#34;&gt; this&lt;/a&gt;.&lt;br/&gt;
-My Twitter handle is &lt;a href=&#34;https://twitter.com/securescientist&#34;&gt;@securescientist&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>/teaching/</link>
-      <pubDate>Sun, 05 May 2019 16:29:18 +0200</pubDate>
-      
-      <guid>/teaching/</guid>
-      <description>Student projects If you are a TU/e honors student and want to work on malware/IoT devices security/Security monitoring contact me.
-Courses Offensive Computer Security (2IC80) This is an introductory course on hacking, with a focus on computer networks and software. The full course will revolve around the idea that (most) mechanisms can be illegitimately misused to obtain (some level of) a desired behaviour; this is the very essence of computer security.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/projects/</link>
-      <pubDate>Sun, 05 May 2019 16:09:06 +0200</pubDate>
-      
-      <guid>/projects/</guid>
-      <description>Funded projects Current    Name Funding Euro Topic Positions (TU/e) Period     INTERSECT NWA-NWO 10M (1.2M TU/e) IoT Security 8 PhD students 2019-2027   DEFRAUDIfy ITEA3 10M, 1.7M NL, 540k TU/e Cybercrime and fraud detection 1 PhD student, 1 PostDoc 2019-2022   SeReNiTy NWO 0.5M, 250k TU/e SOC Operations 1 PhD student 2020-2024   Tot NL (TU/e) EU, NL 12.2M (1.99M TU/e)  10 PhDs, 1 PostDoc 8 yrs overall    Past NA</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publications/</link>
-      <pubDate>Sun, 05 May 2019 13:07:29 +0200</pubDate>
-      
-      <guid>/publications/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;I am one of the authoring member of the First.org/NIST Common Vulnerability Scoring System Standard. &lt;em&gt;First.org CVSS Special Interest Group (Authoring member)&lt;/em&gt;. Common Vulnerability Scoring System (CVSS) v3. Published at &lt;a href=&#34;http://www.first.org/cvss&#34;&gt;http://www.first.org/cvss&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;some-highlights&#34;&gt;Some highlights&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Amber van der Heijden, Luca Allodi. Cognitive Triaging of Phishing Attacks. &lt;strong&gt;In Proceedings of Usenix Security 2019&lt;/strong&gt; (to appear).  &lt;b&gt;(Acc. rate 16%).&lt;/b&gt; &lt;a href=&#34;https://arxiv.org/abs/1905.02162&#34;&gt; Preprint &lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Luca Allodi. 2017. Economic Factors of Vulnerability Trade and Exploitation. In Proceedings of the &lt;strong&gt;2017 ACM SIGSAC Conference on Computer and Communications Security (CCS &amp;lsquo;17).&lt;/strong&gt; ACM, New York, NY, USA, 1483-1499. DOI: &lt;a href=&#34;https://doi.org/10.1145/3133956.3133960&#34;&gt;https://doi.org/10.1145/3133956.3133960&lt;/a&gt; &lt;/i&gt; &lt;b&gt;(Acc. rate 18%).&lt;/b&gt;&lt;a href=&#34;https://arxiv.org/abs/1708.04866&#34;&gt; Preprint&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Allodi, L. and Massacci, F. (2017), Security Events and Vulnerability Data for Cybersecurity Risk Estimation.  &lt;i&gt; Risk Analysis, 37: 1606–1627. &lt;a href=&#34;http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/risa.12864&#34;&gt;doi:10.1111/risa.12864&lt;/a&gt; &lt;/i&gt; &lt;b&gt;Impact factor: 2.225, ISI Journal Citation Reports Ranking: 2015: &lt;sup&gt;6&lt;/sup&gt;&amp;frasl;&lt;sub&gt;49&lt;/sub&gt; (Social Sciences Mathematical Methods); &lt;sup&gt;17&lt;/sup&gt;&amp;frasl;&lt;sub&gt;101&lt;/sub&gt; (Mathematics Interdisciplinary Applications).&lt;/b&gt; &lt;a href=&#34;allodi-risa-17.pdf&#34;&gt; Pre pub version&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
     
   </channel>
 </rss>
