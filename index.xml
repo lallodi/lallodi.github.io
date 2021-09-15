@@ -49,7 +49,7 @@ Courses Offensive Computer Security (2IC80) This is an introductory course on ha
       <pubDate>Sun, 05 May 2019 16:09:06 +0200</pubDate>
       
       <guid>/projects/</guid>
-      <description>Funded projects Current    Name Funding Euro Topic Positions (TU/e) Period     INTERSECT NWA-NWO 10M (1.2M TU/e) IoT Security 8 PhD students 2019-2027   DEFRAUDIfy ITEA3 10M, 1.7M NL, 540k TU/e Cybercrime and fraud detection 1 PhD student, 1 PostDoc 2019-2022   SeReNiTy NWO 0.5M, 250k TU/e SOC Operations 1 PhD student 2020-2024   Tot NL (TU/e) EU, NL 12.2M (1.99M TU/e)  10 PhDs, 1 PostDoc 8 yrs overall    Past NA</description>
+      <description>Funded projects Current    Name Funding Euro Topic Positions (TU/e) Period     INTERSECT NWA-NWO 10M (1.2M TU/e) IoT Security 8 PhD students 2019-2027   DEFRAUDIfy ITEA3 10M, 1.7M NL, 540k TU/e Cybercrime and fraud detection 1 PhD student, 1 PostDoc 2019-2022   SeReNiTy NWO 0.5M, 250k TU/e SOC Operations 1 PhD student 2020-2024   CATRIN NWA 2M, 250k TU/e Threat Intelligence 1 PhD student 2021-2026   Tot NL (TU/e) EU, NL 14.</description>
     </item>
     
     <item>
@@ -67,6 +67,7 @@ Courses Offensive Computer Security (2IC80) This is an introductory course on ha
 &lt;h2 id=&#34;some-highlights&#34;&gt;Some highlights&lt;/h2&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Allodi, L., Massacci, F., Williams, J. The Work-Averse Cyber Attacker Model: Theory and Evidence From Two Million Attack Signatures. (2021) Risk Analysis. &lt;b&gt;Clarivate Analytics Journal Citations Reports (2020): &lt;sup&gt;15&lt;/sup&gt;&amp;frasl;&lt;sub&gt;108&lt;/sub&gt; (Mathematics, Interdisciplinary Applications)&lt;sup&gt;31&lt;/sup&gt;&amp;frasl;&lt;sub&gt;176&lt;/sub&gt; (Public, Environmental &amp;amp; Occupational Health (Social Science))&lt;sup&gt;8&lt;/sup&gt;&amp;frasl;&lt;sub&gt;52&lt;/sub&gt; (Social Sciences, Mathematical Methods).&lt;/b&gt; &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/risa.13732&#34;&gt;Open Access, doi:10.1111/risa.13732&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Martin Rosso, &lt;a href=&#34;michelecampobasso.github.io&#34;&gt;Michele Campobasso&lt;/a&gt;, Ganduulga Gankhuyag, Luca Allodi. SAIBERSOC: Synthetic Attack Injection to Benchmark and Evaluate the Performance of Security Operation Centers. &lt;strong&gt;In Proceedings of the 36th Annual Computer Security Applications Conference (ACSAC 2020). (acc. rate 23%) Distinguished Paper with Artifacts Award&lt;/strong&gt;.
 &lt;a href=&#34;https://arxiv.org/abs/2010.08453&#34;&gt; Preprint&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;michelecampobasso.github.io&#34;&gt;Michele Campobasso&lt;/a&gt;, Luca Allodi. Impersonation-as-a-Service: Characterizing the Emerging Criminal Infrastructure for User Impersonation at Scale. &lt;strong&gt;In Proceedings of the ACM Conference on Computer and Communications Security (ACM CCS 2020). (acc. rate 17%)&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2009.04344&#34;&gt; Preprint&lt;/a&gt;.&lt;/li&gt;
