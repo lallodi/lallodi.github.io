@@ -17,21 +17,20 @@
       <pubDate>Sun, 05 May 2019 13:13:53 +0200</pubDate>
       
       <guid>/about/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;        Office:         MF 6.122 
+      <description>&lt;pre&gt;&lt;code&gt;        Office:         MF 6.061 
                         P.O. Box 513, 5600 MB
                         Eindhoven, The Netherlands
         Email:          l.allodi at tue.nl
         PGP fngrprnt:   950E 3DC8 EB66 DFF3 B64D  7848 A0AD 0BB6 5DC4 98F1
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Public key &lt;a href=&#34;/public.txt&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Public key &lt;a href=&#34;/public.txt&#34;&gt;here&lt;/a&gt;. Curriculum Vitae &lt;a href=&#34;curriculum-allodi.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;curriculum-allodi.pdf&#34;&gt;Curriculum Vitae&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn (hardly updated) at &lt;a href=&#34;https://it.linkedin.com/in/lallodi&#34;&gt; this&lt;/a&gt;.&lt;br/&gt;
+Mastodon (hardly accessed) at &lt;a rel=&#34;me&#34; href=&#34;https://fediscience.org/@securescientist&#34;&gt;@securescientist@fediscience.org&lt;/a&gt;.&lt;br/&gt;
+I am active on BlueSky 🦋 at &lt;a href=&#34;https://bsky.app/profile/securescientist.eu&#34;&gt;@securescientist.eu&lt;/a&gt;.&lt;br/&gt;&lt;/p&gt;
 
-&lt;p&gt;I &lt;b&gt;DO NOT&lt;/b&gt; have a Facebook profile.&lt;br/&gt;
-My LinkedIn page (hardly updated) is &lt;a href=&#34;https://it.linkedin.com/in/lallodi&#34;&gt; this&lt;/a&gt;.&lt;br/&gt;
-My Twitter handle is &lt;a href=&#34;https://twitter.com/securescientist&#34;&gt;@securescientist&lt;/a&gt;.&lt;br/&gt;
-I am on Mastodon at &lt;a rel=&#34;me&#34; href=&#34;https://fediscience.org/@securescientist&#34;&gt;@securescientist@fediscience.org&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;I am &lt;strong&gt;neither&lt;/strong&gt; on Facebook &lt;strong&gt;nor&lt;/strong&gt; on Twitter/X. My Twitter handle &lt;ins&gt;was&lt;/ins&gt; @securescientist. Following the demise of reach, pluralism, and reasoned discourse on &amp;ldquo;X&amp;rdquo;, I have deactivated and deleted my account effective on 14/12/2024.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -61,7 +60,7 @@ Courses Offensive Computer Security (OCS) This is an introductory course on hack
       <guid>/publications/</guid>
       <description>My Google Scholar profile
  I am one of the authoring member of the v3/3.1 First.org/NIST Common Vulnerability Scoring System Standard. First.org CVSS Special Interest Group (Authoring member). Common Vulnerability Scoring System (CVSS) v3. Published at http://www.first.org/cvss.
-  Some highlights  Campobasso, M. and Allodi, L. (2023), Know Your Cybercriminal: Evaluating Attacker Preferences by Measuring Profile Sales on an Active, Leading Criminal Market for User Impersonation at Scale.</description>
+  Some highlights  Burda, P., Allodi, L., &amp;amp; Zannone, N. (2024). Cognition in social engineering empirical research: a systematic literature review. ACM Transactions on Computer-Human Interaction, 31(2), 1-55. PDF. Campobasso, M.</description>
     </item>
     
   </channel>
