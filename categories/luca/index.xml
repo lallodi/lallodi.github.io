@@ -1,37 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>luca on Luca Allodi @ TU/e</title>
-    <link>/categories/luca/</link>
-    <description>Recent content in luca on Luca Allodi @ TU/e</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2019 13:13:53 +0200</lastBuildDate>
-    
-	<atom:link href="/categories/luca/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Sun, 05 May 2019 13:13:53 +0200</pubDate>
-      
-      <guid>/about/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;        Office:         MF 6.061 
-                        P.O. Box 513, 5600 MB
-                        Eindhoven, The Netherlands
-        Email:          l.allodi at tue.nl
-        PGP fngrprnt:   950E 3DC8 EB66 DFF3 B64D  7848 A0AD 0BB6 5DC4 98F1
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Public key &lt;a href=&#34;/public.txt&#34;&gt;here&lt;/a&gt;. Curriculum Vitae &lt;a href=&#34;curriculum-allodi.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;LinkedIn (hardly updated) at &lt;a href=&#34;https://it.linkedin.com/in/lallodi&#34;&gt; this&lt;/a&gt;.&lt;br/&gt;
-Mastodon (hardly accessed) at &lt;a rel=&#34;me&#34; href=&#34;https://fediscience.org/@securescientist&#34;&gt;@securescientist@fediscience.org&lt;/a&gt;.&lt;br/&gt;
-I am active on BlueSky 🦋 at &lt;a href=&#34;https://bsky.app/profile/securescientist.eu&#34;&gt;@securescientist.eu&lt;/a&gt;.&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;I am &lt;strong&gt;neither&lt;/strong&gt; on Facebook &lt;strong&gt;nor&lt;/strong&gt; on Twitter/X. My Twitter handle &lt;ins&gt;was&lt;/ins&gt; @securescientist. Following the demise of reach, pluralism, and reasoned discourse on &amp;ldquo;X&amp;rdquo;, I have deactivated and deleted my account effective on 14/12/2024.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Luca on Luca Allodi @ TU/e</title>
+		<link>/categories/luca/</link>
+		<description>Recent content in Luca on Luca Allodi @ TU/e</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 14 Nov 2026 10:57:24 +0100</lastBuildDate>
+		
+			<atom:link href="/categories/luca/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About</title>
+				<link>/about/</link>
+				<pubDate>Sun, 05 May 2019 13:13:53 +0200</pubDate>
+				<guid>/about/</guid>
+				<description>&lt;pre&gt;&lt;code&gt;        Office:         MF 6.061 &#xA;                        P.O. Box 513, 5600 MB&#xA;                        Eindhoven, The Netherlands&#xA;        Email:          l.allodi at tue.nl&#xA;        PGP fngrprnt:   950E 3DC8 EB66 DFF3 B64D  7848 A0AD 0BB6 5DC4 98F1&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Public key &lt;a href=&#34;/public.txt&#34;&gt;here&lt;/a&gt;. Curriculum Vitae &lt;a href=&#34;/curriculum-allodi.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I hardly use social media. You can find me on Mastodon at &lt;a rel=&#34;me&#34; href=&#34;https://infosec.exchange/@securescientist&#34;&gt;@securescientist@infosec.exchange&lt;/a&gt; and on &lt;a href=&#34;https://it.linkedin.com/in/lallodi&#34;&gt;LinkedIn&lt;/a&gt;. I am not on Facebook or Twitter/X; I deleted my Twitter account (@securescientist) on 14/12/2024.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

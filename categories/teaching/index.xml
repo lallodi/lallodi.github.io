@@ -1,25 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>teaching on Luca Allodi @ TU/e</title>
-    <link>/categories/teaching/</link>
-    <description>Recent content in teaching on Luca Allodi @ TU/e</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2019 16:29:18 +0200</lastBuildDate>
-    
-	<atom:link href="/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Teaching</title>
-      <link>/teaching/</link>
-      <pubDate>Sun, 05 May 2019 16:29:18 +0200</pubDate>
-      
-      <guid>/teaching/</guid>
-      <description>Student projects If you are a TU/e honors student and want to work on malware/IoT devices security/Security monitoring contact me.
-Courses Offensive Computer Security (OCS) This is an introductory course on hacking, with a focus on computer networks and software. The full course will revolve around the idea that (most) mechanisms can be illegitimately misused to obtain (some level of) a desired behaviour; this is the very essence of computer security.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Teaching on Luca Allodi @ TU/e</title>
+		<link>/categories/teaching/</link>
+		<description>Recent content in Teaching on Luca Allodi @ TU/e</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 14 Nov 2026 10:59:28 +0100</lastBuildDate>
+		
+			<atom:link href="/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Teaching</title>
+				<link>/teaching/</link>
+				<pubDate>Sun, 05 May 2019 16:29:18 +0200</pubDate>
+				<guid>/teaching/</guid>
+				<description>&lt;h2 id=&#34;student-projects&#34;&gt;Student projects&lt;/h2&gt;&#xA;&lt;p&gt;If you are a TU/e honors student and want to work on malware/IoT devices security/Security monitoring contact me. See also the &lt;a href=&#34;https://security1.win.tue.nl/teaching/master_projects_and_intern/index.html&#34;&gt;master projects and internships&lt;/a&gt; page of the Security Cluster. Master projects and internships on cyber threat intelligence are available in the &lt;a href=&#34;https://security1.win.tue.nl/teaching/lab/index.html&#34;&gt;CTILab&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;&#xA;&lt;h3 id=&#34;offensive-computer-security-ocs-2ic80&#34;&gt;Offensive Computer Security (OCS, 2IC80)&lt;/h3&gt;&#xA;&lt;p&gt;This is an introductory course on hacking, with a focus on computer networks and software. The full course will revolve around the idea that (most) mechanisms can be illegitimately misused to obtain (some level of) a desired behaviour; this is the very essence of computer security. We will explore network protocols and the implied trust relations they operate upon; we will look at software vulnerabilities and at how they can emerge from software code; we will look at exploit testing and automated attack frameworks; we will look at penetration testing and advanced networked attacks.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

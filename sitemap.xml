@@ -1,66 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/about/</loc>
-    <lastmod>2024-11-14T16:13:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2024-11-14T16:13:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2026-11-14T10:57:24+01:00</lastmod>
+  </url><url>
+    <loc>/students/</loc>
+    <lastmod>2026-11-14T11:12:51+01:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2024-11-14T16:13:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/teaching/</loc>
-    <lastmod>2023-03-27T16:09:04+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2026-11-14T11:12:35+01:00</lastmod>
+  </url><url>
     <loc>/categories/teaching/</loc>
-    <lastmod>2023-03-27T16:09:04+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/projects/</loc>
-    <lastmod>2021-09-15T16:49:40+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2026-11-14T10:59:28+01:00</lastmod>
+  </url><url>
+    <loc>/teaching/</loc>
+    <lastmod>2026-11-14T10:59:28+01:00</lastmod>
+  </url><url>
     <loc>/categories/projects/</loc>
-    <lastmod>2021-09-15T16:49:40+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2026-11-14T10:57:24+01:00</lastmod>
+  </url><url>
+    <loc>/projects/</loc>
+    <lastmod>2026-11-14T10:57:24+01:00</lastmod>
+  </url><url>
     <loc>/categories/luca/</loc>
-    <lastmod>2024-11-14T16:13:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publications/</loc>
-    <lastmod>2024-11-14T12:42:25+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2026-11-14T10:57:24+01:00</lastmod>
+  </url><url>
     <loc>/categories/publications/</loc>
-    <lastmod>2024-11-14T12:42:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2026-11-14T11:12:35+01:00</lastmod>
+  </url><url>
+    <loc>/publications/</loc>
+    <lastmod>2026-11-14T11:12:35+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2019-05-05T16:54:30+02:00</lastmod>
+  </url><url>
     <loc>/tags/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>
